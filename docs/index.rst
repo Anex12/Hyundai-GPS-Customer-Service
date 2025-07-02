@@ -1,10 +1,10 @@
- Hyundai GPS Customer Support: Your Resource for Superior Navigation 
+Hyundai GPS Customer Support: Your Resource for Superior Navigation 
 ============================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-.. image:: 
+.. image:: supportbutton.jpg
    :alt: Hyundai GPS Customer Service 
    :width: 350px
    :align: center
